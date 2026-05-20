@@ -24,12 +24,12 @@ Manual Test Cases:
 | Bước | Prompt gửi Antigravity | Chờ User? |
 |------|------------------------|-----------|
 | **0** | Xem `project_architecture/README.md` | Setup 1 lần |
-| **1** | Copy `01.../prompt.txt` + điền `[...]` | ✅ Chờ xác nhận |
-| **2** | Copy `02.../prompt.txt` + điền URL & TCs | ✅ Review locators |
-| **3** | Copy `03.../prompt.txt` | Review POM |
-| **4** | Copy `04.../prompt.txt` | Review nhanh |
-| **5** | Copy `05.../prompt.txt` | Chờ test PASS |
-| **6** | Copy `06.../prompt.txt` | Nhận clean code |
+| **1** | Copy `plans/automation/01_context_and_roleplay/prompt.txt` + điền `[...]` | ✅ Chờ xác nhận |
+| **2** | Copy `plans/automation/02_analysis_and_ui_recon/prompt.txt` + điền URL & TCs | ✅ Review locators |
+| **3** | Copy `plans/automation/03_pom_design/prompt.txt` | Review POM |
+| **4** | Copy `plans/automation/04_test_data_strategy/prompt.txt` | Review nhanh |
+| **5** | Copy `plans/automation/05_script_generation/prompt.txt` | Chờ test PASS |
+| **6** | Copy `plans/automation/06_review_and_refactor/prompt.txt` | Nhận clean code |
 
 ### Luồng thực hiện:
 
